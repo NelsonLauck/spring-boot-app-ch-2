@@ -1,4 +1,4 @@
-# spring-boot-tester
+# spring-boot-app-ch-2
 
 Internal spring boot learning repository
 
